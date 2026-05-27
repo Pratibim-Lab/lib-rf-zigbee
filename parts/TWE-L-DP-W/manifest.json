@@ -1,0 +1,17 @@
+{
+  "id": "RF_ZigBee/TWE-L-DP-W:TWE-L-DP-W",
+  "name": "TWE-L-DP-W",
+  "library": "RF_ZigBee",
+  "file": "RF_ZigBee.kicad_symdir/TWE-L-DP-W.kicad_sym",
+  "description": "NXP JN5164/JN5169 breakout module, DIP",
+  "datasheet": "https://www.mono-wireless.com/jp/products/TWE-Lite-DIP/MW-PDS-TWELITEDIP-JP.pdf",
+  "keywords": "TWELITE",
+  "footprint": "Package_DIP:DIP-28_W15.24mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-rf-zigbee@master/parts/TWE-L-DP-W/",
+  "part_path": "parts/TWE-L-DP-W",
+  "symbol_file": "parts/TWE-L-DP-W/TWE-L-DP-W.kicad_sym",
+  "source_library": "RF_ZigBee.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:12:41.535Z"
+}

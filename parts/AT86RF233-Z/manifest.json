@@ -1,0 +1,17 @@
+{
+  "id": "RF_ZigBee/AT86RF233-Z:AT86RF233-Z",
+  "name": "AT86RF233-Z",
+  "library": "RF_ZigBee",
+  "file": "RF_ZigBee.kicad_symdir/AT86RF233-Z.kicad_sym",
+  "description": "ZigBee  transceiver, 2.4GHz, AES, SPI, 1.8 to 3.6V, QFN-32",
+  "datasheet": "https://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-8351-MCU_Wireless-AT86RF233_Datasheet.pdf",
+  "keywords": "Microchip Atmel 802.15.4 RF RF4CE 6LoWPAN ISM",
+  "footprint": "Package_DFN_QFN:QFN-32-1EP_5x5mm_P0.5mm_EP3.3x3.3mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-rf-zigbee@master/parts/AT86RF233-Z/",
+  "part_path": "parts/AT86RF233-Z",
+  "symbol_file": "parts/AT86RF233-Z/AT86RF233-Z.kicad_sym",
+  "source_library": "RF_ZigBee.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:12:41.519Z"
+}

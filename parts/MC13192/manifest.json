@@ -1,0 +1,17 @@
+{
+  "id": "RF_ZigBee/MC13192:MC13192",
+  "name": "MC13192",
+  "library": "RF_ZigBee",
+  "file": "RF_ZigBee.kicad_symdir/MC13192.kicad_sym",
+  "description": "2.4 GHz, Low Power Transceiver for 802.15.4 (Zigbee controller)",
+  "datasheet": "https://www.nxp.com/products/no-longer-manufactured/2.4-ghz-low-power-transceiver-for-802.15.4:MC13192",
+  "keywords": "ZIGBEE",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-rf-zigbee@master/parts/MC13192/",
+  "part_path": "parts/MC13192",
+  "symbol_file": "parts/MC13192/MC13192.kicad_sym",
+  "source_library": "RF_ZigBee.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:12:41.528Z"
+}

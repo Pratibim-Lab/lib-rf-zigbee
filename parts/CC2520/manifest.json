@@ -1,0 +1,17 @@
+{
+  "id": "RF_ZigBee/CC2520:CC2520",
+  "name": "CC2520",
+  "library": "RF_ZigBee",
+  "file": "RF_ZigBee.kicad_symdir/CC2520.kicad_sym",
+  "description": "2.4 GHz ZigBee/IEEE 802.15.4 RF transceiver",
+  "datasheet": "http://www.ti.com/lit/gpn/cc2520",
+  "keywords": "2.4GHz rf transceiver ZigBee 802.15.4",
+  "footprint": "Package_DFN_QFN:QFN-28-1EP_5x5mm_P0.5mm_EP3.35x3.35mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-rf-zigbee@master/parts/CC2520/",
+  "part_path": "parts/CC2520",
+  "symbol_file": "parts/CC2520/CC2520.kicad_sym",
+  "source_library": "RF_ZigBee.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:12:41.524Z"
+}

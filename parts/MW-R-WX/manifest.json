@@ -1,0 +1,17 @@
+{
+  "id": "RF_ZigBee/MW-R-WX:MW-R-WX",
+  "name": "MW-R-WX",
+  "library": "RF_ZigBee",
+  "file": "RF_ZigBee.kicad_symdir/MW-R-WX.kicad_sym",
+  "description": "NXP JN5164/JN5169 breakout module, SMD",
+  "datasheet": "https://www.mono-wireless.com/jp/products/TWE-LITE/MW-PDS-TWELITE-JP.pdf",
+  "keywords": "TWELITE",
+  "footprint": "RF_Module:MonoWireless_TWE-L-WX",
+  "extends": "TWE-L-WX",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-rf-zigbee@master/parts/MW-R-WX/",
+  "part_path": "parts/MW-R-WX",
+  "symbol_file": "parts/MW-R-WX/MW-R-WX.kicad_sym",
+  "source_library": "RF_ZigBee.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:12:41.533Z"
+}
